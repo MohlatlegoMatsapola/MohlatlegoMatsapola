@@ -1,7 +1,10 @@
- Hi there 👋\
+ Hi there 👋
 # JAVA APPLICATIONS
 
 ## Project 01 :  Stock-mix
+### Description
+-
+
 
 <!--
 **MohlatlegoMatsapola/MohlatlegoMatsapola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
